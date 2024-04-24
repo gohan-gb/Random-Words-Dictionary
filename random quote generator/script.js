@@ -35,28 +35,3 @@ btn.addEventListener('click', ()=> {
     container.textContent = random1
 });
 
-// const pOne = document.createElement('p') 
-// const pTwo = document.createElement('p')
-// const pThree = document.createElement('p')
-
-// pOne.textContent = 'ok'
-// pTwo.textContent = 'thank you'
-// pThree.textContent = 'thats right'
-
-// a.classList.add('one','two','three')
-
-// const classOne = document.querySelector('.one')
-// classOne.textContent = 'lets go of it'
-
-// const classTwo = document.querySelector('.two')
-// classTwo.textContent = 'lets not go of it'
-
-// const classThree = document.querySelector('.three')
-// classThree.textContent = 'hurryUp'
-
-// const btn = document.querySelector('.btn')
-// btn.addEventListener('click', () => {
-//     const arr = [classOne, classTwo, classThree]
-//     const randomOne = arr[Math.floor(Math.random() * (arr.length))]
-//     console.log(randomOne)
-// })
